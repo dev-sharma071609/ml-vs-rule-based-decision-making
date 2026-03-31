@@ -10,8 +10,10 @@ The study demonstrates how ML models outperform static rule-based systems in dyn
 ---
 
 ## Research Paper
+## 📄 Research Paper
 
-[Download Full Paper](./ML_Effectiveness_Evaluation_Study.pdf)
+📥 [Download Full Paper](./ML_Effectiveness_Evaluation_Study.pdf)  
+🌐 [View on GitHub](https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making/blob/main/ML_Effectiveness_Evaluation_Study.pdf)
 
 ---
 
