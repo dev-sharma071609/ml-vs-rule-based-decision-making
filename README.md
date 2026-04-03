@@ -13,6 +13,9 @@ The study demonstrates how ML models outperform static rule-based systems in dyn
 ## 📄 Research Paper
 
 🌐 [View on GitHub](https://github.com/dev-sharma071609/ml-vs-rule-based-decision-making/blob/main/research%20paper/Sharma_ML_vs_Rule_Based_Systems_Comparative_Study.pdf)
+
+📄 Published Research Paper (DOI):
+https://zenodo.org/records/19394563
 ---
 
 ## Live AI Applications
